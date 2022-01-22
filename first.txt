@@ -1,0 +1,1 @@
+Python Program to convert String to a List. In this program, we will try to convert a given string to a list, where spaces or any other special characters, according to the users choice, are encountered. To do this we use the split() method. Syntax: Examples: The split method is used to split the strings and store them in the list malayalam
